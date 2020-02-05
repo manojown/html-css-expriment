@@ -1,0 +1,17 @@
+@import 'main.css';
+@import 'sidebar-right.css';
+@import 'sidebar-left.css';
+
+body {
+    /* background-color: blueviolet; */
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: row;
+
+
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
